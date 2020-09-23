@@ -1,6 +1,7 @@
 (function($){
 	// ajax기능 이해하기1
 	var d;
+	
 /*
 	$.ajax({
 		url:'../data/ajaxTest.json',
@@ -37,5 +38,8 @@ footWrap.load('../page/common/footBox.html');
 // 	var headBox = $('#headBox');
 // 	console.log(headBox);
 // }, 100);
+
+// yy-github-io push test
+
 
 })(jQuery);
